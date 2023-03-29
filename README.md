@@ -34,4 +34,11 @@
   * Developed C++ imagine processing program with OpenCV for industrial manufacturing machine, helping reduce 1000 USD per month from the previous subscription. 
   * Operated machines of product line, including establishing automation coordinates on a machine and writing firmware program for ethernet industrial camera.
   
-##
+## Selected Projects
+* **Smart Home** | Python, Html, C/C++, Arduino, Raspberry Pi (12/2017 – 02/2018)
+  * Connected Raspberry pi3 with Arduino by using general-purpose input-output method along with web camera, LED array, fan, and temperature humidity sensor
+  * Acquired data from every sensor and Livestream, posted on HTML web page
+* **Air hockey machine** | C++, OpenCV, ROS, MATLAB, Simulink (09/2018 – 05/2019)
+  * Implemented Simulink to control robotic arms to play air hockey with human 
+  * Written program with image processing tasks, which allowed our machine to see hockey punk and forecast the location and speed of punk
+  * Used MATLAB to construct the virtual XY coordinate of the table and implemented ROS (Robot Operating System) to connect different programming environments
